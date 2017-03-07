@@ -1,7 +1,4 @@
-blbalblalasudhasudhas
+Vim = alterar
+cat = ler em modo texto
 
-asduashduashdsau
-uhasudsah
-
-
-ausdhasduhas
+touch = criar arquivo
